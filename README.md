@@ -3,4 +3,4 @@
 
 
 ### 판다스 연습
-> - [Make New Columns](판다스Make New Columns.html)
+> - [Make New Columns](판다스MakeColumns.ipynb)
