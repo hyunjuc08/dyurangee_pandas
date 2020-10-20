@@ -2,4 +2,4 @@
 
 
 ### 판다스 연습
-> - [판다스_Make New Columns]
+> - [Make New Columns](판다스_Make New Columns.html)
