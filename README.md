@@ -6,7 +6,7 @@
 >   : 서울시 코로나 확진자 데이터 크롤링 및 데이터 시각화
 > - [[파이썬]1209 영화 데이터 시각화 실습_1차](1209_추천시스템_1차_(github용).ipynb)
 
-### 판다스 연습
+### 파이썬 연습
 > - [Make New Columns](판다스MakeColumns.ipynb)
 > - [1021 크롤링 실습](파이썬크롤링실습.ipynb)
 > - [1022 Cross_tab/Aggregation/Axis 용법](1022데이터전처리_crosstab_aggregation_axis.ipynb)
