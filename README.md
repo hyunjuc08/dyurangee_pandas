@@ -16,7 +16,7 @@
 
 ### 태블로 연습
 > - [Exclude & Fixed LOD](1223_LOD_exclude_fixed_표현식)
-> - [Include LOD](1215_태블로 실습_VLOD_include)
+> - [Include LOD](1215_태블로실습_VLOD_include.twb)
 
 ### 통계 강의
 > - [[파이썬]1023 로지스틱 회귀분석: 혼동행렬/우도/과적합](로지스틱회귀분석_혼동행렬_우도.ipynb)
