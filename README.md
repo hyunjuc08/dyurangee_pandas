@@ -15,7 +15,7 @@
 > - [1111 커널밀도함수 실습](1111데이터시각화_커널밀도함수.ipynb)
 
 ### 태블로 연습
-> - [Include LOD](1215_태블로 실습_VLOD include.twb)
+> - [Include LOD](1215_태블로 실습_VLOD include)
 > - [Exclude & Fixed LOD](1223_LOD_exclude_fixed_표현식)
 
 ### 통계 강의
