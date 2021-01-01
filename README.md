@@ -17,6 +17,7 @@
 ### 태블로 연습
 > - [Exclude & Fixed LOD](1223_LOD_exclude_fixed_표현식)
 > - [Include LOD](1215_태블로실습_VLOD_include.twb)
+> - [Order of Operations](0101_Order_of_Operations.twb)
 
 ### SQL 연습
 > - [CASE 구문으로 라벨링하기](CASE구문으로라벨링.sql)
