@@ -20,9 +20,11 @@
 > - [Order of Operations](0101_Order_of_Operations.twb)
 
 ### SQL 연습
-> - [CASE 구문으로 라벨링하기](CASE구문으로라벨링.sql)
+> - [CASE 구문으로 ID값 라벨링하기](CASE구문으로라벨링.sql)
 > - [COALESCE로 결측값 처리](COALESCE.sql)
 > - [날짜 데이터 다루기](날짜다루기.sql)
+> - [CONCAT으로 문자열 합치기](문자열연결_CONCAT.sql)
+> - [SIGN 함수 다루기](SIGN함수활용법.sql)
 
 ### 통계 강의
 > - [[파이썬]1023 로지스틱 회귀분석: 혼동행렬/우도/과적합](로지스틱회귀분석_혼동행렬_우도.ipynb)
