@@ -9,10 +9,10 @@
 
 ### 파이썬 연습
 > - [Make New Columns](판다스MakeColumns.ipynb)
-> - [1021 크롤링 실습](파이썬크롤링실습.ipynb)
-> - [1022 Cross_tab/Aggregation/Axis 용법](1022데이터전처리_crosstab_aggregation_axis.ipynb)
-> - [1022 Isin/Query 용법](1022데이터전처리_isin_query.ipynb)
-> - [1111 커널밀도함수 실습](1111데이터시각화_커널밀도함수.ipynb)
+> - [크롤링 실습](파이썬크롤링실습.ipynb)
+> - [Cross_tab/Aggregation/Axis 용법](1022데이터전처리_crosstab_aggregation_axis.ipynb)
+> - [Isin/Query 용법](1022데이터전처리_isin_query.ipynb)
+> - [커널밀도함수 실습](1111데이터시각화_커널밀도함수.ipynb)
 
 ### 태블로 연습
 > - [Exclude & Fixed LOD](1223_LOD_exclude_fixed_표현식)
@@ -27,8 +27,9 @@
 > - [SIGN 함수 다루기](SIGN함수활용법.sql)
 
 ### 통계 강의
-> - [[파이썬]1023 로지스틱 회귀분석: 혼동행렬/우도/과적합](로지스틱회귀분석_혼동행렬_우도.ipynb)
-> - [[파이썬]1028 다중공선성](1028다중공선성실습.ipynb)
+> - [[파이썬]로지스틱 회귀분석: 혼동행렬/우도/과적합](로지스틱회귀분석_혼동행렬_우도.ipynb)
+> - [[파이썬]다중공선성](1028다중공선성실습.ipynb)
+> - [[파이썬]K최근접이웃 ](Kneighbors.ipynb)
 
 ### 데잇걸즈 데모데이 프로젝트
 구해줘 나홀로 홈즈 \[의뢰인 93년생 김지수편]
